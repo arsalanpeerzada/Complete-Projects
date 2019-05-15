@@ -1,0 +1,7 @@
+E:\arsalan\MyC#Practice\practice\prime numbers\prime numbers\bin\Debug\prime numbers.exe
+E:\arsalan\MyC#Practice\practice\prime numbers\prime numbers\bin\Debug\prime numbers.pdb
+E:\arsalan\MyC#Practice\practice\prime numbers\prime numbers\obj\x86\Debug\prime numbers.exe
+E:\arsalan\MyC#Practice\practice\prime numbers\prime numbers\obj\x86\Debug\prime numbers.pdb
+E:\arsalan\MyC#Practice\practice\prime numbers\prime numbers\obj\x86\Debug\prime numbers.csprojResolveAssemblyReference.cache
+E:\arsalan\1st semester C#\practice\prime numbers\prime numbers\obj\x86\Debug\prime numbers.exe
+E:\arsalan\1st semester C#\practice\prime numbers\prime numbers\obj\x86\Debug\prime numbers.pdb

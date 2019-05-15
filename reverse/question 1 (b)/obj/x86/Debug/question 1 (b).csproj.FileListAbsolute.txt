@@ -1,0 +1,7 @@
+C:\Users\Wali\Downloads\Desktop\assignment 7\question 1 (b)\question 1 (b)\bin\Debug\question 1 (b).exe
+C:\Users\Wali\Downloads\Desktop\assignment 7\question 1 (b)\question 1 (b)\bin\Debug\question 1 (b).pdb
+C:\Users\Wali\Downloads\Desktop\assignment 7\question 1 (b)\question 1 (b)\obj\x86\Debug\question 1 (b).exe
+C:\Users\Wali\Downloads\Desktop\assignment 7\question 1 (b)\question 1 (b)\obj\x86\Debug\question 1 (b).pdb
+C:\Users\Wali\Downloads\Desktop\assignment 7\question 1 (b)\question 1 (b)\obj\x86\Debug\question 1 (b).csprojResolveAssemblyReference.cache
+E:\arsalan\MyC#Practice\diamond shapes\reverse\question 1 (b)\obj\x86\Debug\question 1 (b).exe
+E:\arsalan\MyC#Practice\diamond shapes\reverse\question 1 (b)\obj\x86\Debug\question 1 (b).pdb

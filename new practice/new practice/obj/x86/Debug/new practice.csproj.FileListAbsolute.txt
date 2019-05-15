@@ -1,0 +1,10 @@
+E:\arsalan\MyC#Practice\practice\new practice\new practice\bin\Debug\new practice.exe
+E:\arsalan\MyC#Practice\practice\new practice\new practice\bin\Debug\new practice.pdb
+E:\arsalan\MyC#Practice\practice\new practice\new practice\obj\x86\Debug\new practice.exe
+E:\arsalan\MyC#Practice\practice\new practice\new practice\obj\x86\Debug\new practice.pdb
+E:\arsalan\MyC#Practice\practice\new practice\new practice\obj\x86\Debug\new practice.csprojResolveAssemblyReference.cache
+E:\arsalan\1st semester C#\practice\new practice\new practice\obj\x86\Debug\new practice.exe
+E:\arsalan\1st semester C#\practice\new practice\new practice\obj\x86\Debug\new practice.pdb
+E:\arsalan\1st semester C#\practice\new practice\new practice\bin\Debug\new practice.exe
+E:\arsalan\1st semester C#\practice\new practice\new practice\bin\Debug\new practice.pdb
+E:\arsalan\1st semester C#\practice\new practice\new practice\obj\x86\Debug\new practice.csprojResolveAssemblyReference.cache

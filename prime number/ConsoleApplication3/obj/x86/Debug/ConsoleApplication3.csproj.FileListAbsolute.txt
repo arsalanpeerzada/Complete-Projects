@@ -1,0 +1,17 @@
+E:\arsalan\MyC#Practice\loops\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\arsalan\MyC#Practice\loops\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\arsalan\MyC#Practice\loops\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+E:\arsalan\MyC#Practice\loops\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+E:\arsalan\MyC#Practice\loops\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\arsalan\MyC#Practice\loops\prime number\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+E:\arsalan\MyC#Practice\loops\prime number\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+E:\arsalan\MyC#Practice\loops\prime number\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\arsalan\MyC#Practice\loops\prime number\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\arsalan\MyC#Practice\loops\prime number\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\arsalan\C#\loops\prime number\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+E:\arsalan\C#\loops\prime number\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+E:\arsalan\C#\loops\prime number\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\arsalan\C#\loops\prime number\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\arsalan\C#\loops\prime number\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\arsalan\1st semester C#\CompletePrograms\prime number\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+E:\arsalan\1st semester C#\CompletePrograms\prime number\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb

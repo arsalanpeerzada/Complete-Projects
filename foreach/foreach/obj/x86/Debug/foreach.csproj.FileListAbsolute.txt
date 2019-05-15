@@ -1,0 +1,8 @@
+E:\arsalan\MyC#Practice\practice\foreach\foreach\bin\Debug\@foreach.exe
+E:\arsalan\MyC#Practice\practice\foreach\foreach\bin\Debug\@foreach.pdb
+E:\arsalan\MyC#Practice\practice\foreach\foreach\obj\x86\Debug\@foreach.exe
+E:\arsalan\MyC#Practice\practice\foreach\foreach\obj\x86\Debug\@foreach.pdb
+E:\arsalan\1st semester C#\practice\foreach\foreach\obj\x86\Debug\@foreach.exe
+E:\arsalan\1st semester C#\practice\foreach\foreach\obj\x86\Debug\@foreach.pdb
+E:\arsalan\1st semester C#\practice\foreach\foreach\bin\Debug\@foreach.exe
+E:\arsalan\1st semester C#\practice\foreach\foreach\bin\Debug\@foreach.pdb

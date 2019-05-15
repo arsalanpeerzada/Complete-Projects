@@ -1,0 +1,8 @@
+E:\arsalan\MyC#Practice\projects by others\new project\new project\bin\Debug\new project.exe
+E:\arsalan\MyC#Practice\projects by others\new project\new project\bin\Debug\new project.pdb
+E:\arsalan\MyC#Practice\projects by others\new project\new project\obj\x86\Debug\new project.exe
+E:\arsalan\MyC#Practice\projects by others\new project\new project\obj\x86\Debug\new project.pdb
+E:\arsalan\C#\projects by others\new project\new project\obj\x86\Debug\new project.exe
+E:\arsalan\C#\projects by others\new project\new project\obj\x86\Debug\new project.pdb
+E:\arsalan\1st semester C#\projects by others\new project\new project\obj\x86\Debug\new project.exe
+E:\arsalan\1st semester C#\projects by others\new project\new project\obj\x86\Debug\new project.pdb
