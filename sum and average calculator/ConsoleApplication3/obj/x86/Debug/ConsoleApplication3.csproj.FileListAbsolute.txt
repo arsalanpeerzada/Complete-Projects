@@ -1,0 +1,10 @@
+E:\arsalan\MyC#Practice\practice\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\arsalan\MyC#Practice\practice\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\arsalan\MyC#Practice\practice\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+E:\arsalan\MyC#Practice\practice\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+E:\arsalan\MyC#Practice\practice\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\arsalan\MyC#Practice\practice\sum and average calculator\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+E:\arsalan\MyC#Practice\practice\sum and average calculator\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+E:\arsalan\MyC#Practice\practice\sum and average calculator\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\arsalan\MyC#Practice\practice\sum and average calculator\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\arsalan\MyC#Practice\practice\sum and average calculator\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache

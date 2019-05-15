@@ -1,0 +1,12 @@
+E:\arsalan\MyC#Practice\diamond shapes\shadow\shadow\bin\Debug\shadow.exe
+E:\arsalan\MyC#Practice\diamond shapes\shadow\shadow\bin\Debug\shadow.pdb
+E:\arsalan\MyC#Practice\diamond shapes\shadow\shadow\obj\x86\Debug\shadow.exe
+E:\arsalan\MyC#Practice\diamond shapes\shadow\shadow\obj\x86\Debug\shadow.pdb
+E:\arsalan\C#\diamond shapes\shadow\shadow\obj\x86\Debug\shadow.exe
+E:\arsalan\C#\diamond shapes\shadow\shadow\obj\x86\Debug\shadow.pdb
+E:\arsalan\C#\diamond shapes\shadow\shadow\bin\Debug\shadow.exe
+E:\arsalan\C#\diamond shapes\shadow\shadow\bin\Debug\shadow.pdb
+E:\arsalan\1st semester C#\CompletePrograms\shadow\shadow\obj\x86\Debug\shadow.exe
+E:\arsalan\1st semester C#\CompletePrograms\shadow\shadow\obj\x86\Debug\shadow.pdb
+E:\arsalan\1st semester C#\CompletePrograms\shadow\shadow\bin\Debug\shadow.exe
+E:\arsalan\1st semester C#\CompletePrograms\shadow\shadow\bin\Debug\shadow.pdb

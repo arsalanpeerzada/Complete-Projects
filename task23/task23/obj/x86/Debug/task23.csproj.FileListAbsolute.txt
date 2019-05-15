@@ -1,0 +1,6 @@
+E:\arsalan\MyC#Practice\practice\task23\task23\bin\Debug\task23.exe
+E:\arsalan\MyC#Practice\practice\task23\task23\bin\Debug\task23.pdb
+E:\arsalan\MyC#Practice\practice\task23\task23\obj\x86\Debug\task23.exe
+E:\arsalan\MyC#Practice\practice\task23\task23\obj\x86\Debug\task23.pdb
+E:\arsalan\1st semester C#\practice\task23\task23\obj\x86\Debug\task23.exe
+E:\arsalan\1st semester C#\practice\task23\task23\obj\x86\Debug\task23.pdb
