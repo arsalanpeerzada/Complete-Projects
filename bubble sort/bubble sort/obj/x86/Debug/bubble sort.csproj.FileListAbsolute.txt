@@ -1,0 +1,14 @@
+E:\arsalan\MyC#Practice\practice\bubble sort\bubble sort\bin\Debug\bubble sort.exe
+E:\arsalan\MyC#Practice\practice\bubble sort\bubble sort\bin\Debug\bubble sort.pdb
+E:\arsalan\MyC#Practice\practice\bubble sort\bubble sort\obj\x86\Debug\bubble sort.exe
+E:\arsalan\MyC#Practice\practice\bubble sort\bubble sort\obj\x86\Debug\bubble sort.pdb
+E:\arsalan\MyC#Practice\practice\bubble sort\bubble sort\obj\x86\Debug\bubble sort.csprojResolveAssemblyReference.cache
+E:\arsalan\C#\practice\bubble sort\bubble sort\obj\x86\Debug\bubble sort.exe
+E:\arsalan\C#\practice\bubble sort\bubble sort\obj\x86\Debug\bubble sort.pdb
+E:\arsalan\C#\practice\bubble sort\bubble sort\bin\Debug\bubble sort.exe
+E:\arsalan\C#\practice\bubble sort\bubble sort\bin\Debug\bubble sort.pdb
+E:\arsalan\C#\practice\bubble sort\bubble sort\obj\x86\Debug\bubble sort.csprojResolveAssemblyReference.cache
+E:\arsalan\1st semester C#\practice\bubble sort\bubble sort\obj\x86\Debug\bubble sort.exe
+E:\arsalan\1st semester C#\practice\bubble sort\bubble sort\obj\x86\Debug\bubble sort.pdb
+E:\arsalan\1st semester C#\running programs\bubble sort\bubble sort\obj\x86\Debug\bubble sort.exe
+E:\arsalan\1st semester C#\running programs\bubble sort\bubble sort\obj\x86\Debug\bubble sort.pdb

@@ -1,0 +1,12 @@
+E:\arsalan\MyC#Practice\diamond2\diamond2\bin\Debug\diamond2.exe
+E:\arsalan\MyC#Practice\diamond2\diamond2\bin\Debug\diamond2.pdb
+E:\arsalan\MyC#Practice\diamond2\diamond2\obj\x86\Debug\diamond2.exe
+E:\arsalan\MyC#Practice\diamond2\diamond2\obj\x86\Debug\diamond2.pdb
+E:\arsalan\C#\diamond2\diamond2\obj\x86\Debug\diamond2.exe
+E:\arsalan\C#\diamond2\diamond2\obj\x86\Debug\diamond2.pdb
+E:\arsalan\C#\diamond2\diamond2\bin\Debug\diamond2.exe
+E:\arsalan\C#\diamond2\diamond2\bin\Debug\diamond2.pdb
+E:\arsalan\1st semester C#\CompletePrograms\diamond2\diamond2\obj\x86\Debug\diamond2.exe
+E:\arsalan\1st semester C#\CompletePrograms\diamond2\diamond2\obj\x86\Debug\diamond2.pdb
+E:\arsalan\1st semester C#\running programs\diamond2\diamond2\obj\x86\Debug\diamond2.exe
+E:\arsalan\1st semester C#\running programs\diamond2\diamond2\obj\x86\Debug\diamond2.pdb

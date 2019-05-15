@@ -1,0 +1,10 @@
+E:\arsalan\MyC#Practice\diamond shapes\diamond shapes\bin\Debug\diamond shapes.exe
+E:\arsalan\MyC#Practice\diamond shapes\diamond shapes\bin\Debug\diamond shapes.pdb
+E:\arsalan\MyC#Practice\diamond shapes\diamond shapes\obj\x86\Debug\diamond shapes.exe
+E:\arsalan\MyC#Practice\diamond shapes\diamond shapes\obj\x86\Debug\diamond shapes.pdb
+E:\arsalan\MyC#Practice\diamond shapes\diamond shapes\obj\x86\Debug\diamond shapes.csprojResolveAssemblyReference.cache
+E:\arsalan\1st semester C#\running programs\diamond shapes\diamond shapes\obj\x86\Debug\diamond shapes.exe
+E:\arsalan\1st semester C#\running programs\diamond shapes\diamond shapes\obj\x86\Debug\diamond shapes.pdb
+E:\arsalan\1st semester C#\running programs\diamond shapes\diamond shapes\bin\Debug\diamond shapes.exe
+E:\arsalan\1st semester C#\running programs\diamond shapes\diamond shapes\bin\Debug\diamond shapes.pdb
+E:\arsalan\1st semester C#\running programs\diamond shapes\diamond shapes\obj\x86\Debug\diamond shapes.csprojResolveAssemblyReference.cache

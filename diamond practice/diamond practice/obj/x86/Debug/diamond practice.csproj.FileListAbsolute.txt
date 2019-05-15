@@ -1,0 +1,17 @@
+E:\arsalan\MyC#Practice\practice\diamond practice\diamond practice\bin\Debug\diamond practice.exe
+E:\arsalan\MyC#Practice\practice\diamond practice\diamond practice\bin\Debug\diamond practice.pdb
+E:\arsalan\MyC#Practice\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.exe
+E:\arsalan\MyC#Practice\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.pdb
+E:\arsalan\MyC#Practice\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.csprojResolveAssemblyReference.cache
+E:\arsalan\C#\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.exe
+E:\arsalan\C#\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.pdb
+E:\arsalan\C#\practice\diamond practice\diamond practice\bin\Debug\diamond practice.exe
+E:\arsalan\C#\practice\diamond practice\diamond practice\bin\Debug\diamond practice.pdb
+E:\arsalan\C#\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.csprojResolveAssemblyReference.cache
+E:\arsalan\1st semester C#\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.exe
+E:\arsalan\1st semester C#\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.pdb
+E:\arsalan\1st semester C#\practice\diamond practice\diamond practice\bin\Debug\diamond practice.exe
+E:\arsalan\1st semester C#\practice\diamond practice\diamond practice\bin\Debug\diamond practice.pdb
+E:\arsalan\1st semester C#\practice\diamond practice\diamond practice\obj\x86\Debug\diamond practice.csprojResolveAssemblyReference.cache
+E:\arsalan\1st semester C#\running programs\diamond practice\diamond practice\obj\x86\Debug\diamond practice.exe
+E:\arsalan\1st semester C#\running programs\diamond practice\diamond practice\obj\x86\Debug\diamond practice.pdb

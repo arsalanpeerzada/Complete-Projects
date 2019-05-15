@@ -1,0 +1,14 @@
+E:\arsalan\MyC#Practice\practice\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe
+E:\arsalan\MyC#Practice\practice\NestedLoops\NestedLoops\bin\Debug\NestedLoops.pdb
+E:\arsalan\MyC#Practice\practice\NestedLoops\NestedLoops\obj\x86\Debug\NestedLoops.exe
+E:\arsalan\MyC#Practice\practice\NestedLoops\NestedLoops\obj\x86\Debug\NestedLoops.pdb
+E:\arsalan\MyC#Practice\practice\NestedLoops\NestedLoops\obj\x86\Debug\NestedLoops.csprojResolveAssemblyReference.cache
+E:\arsalan\C#\practice\diamonds\NestedLoops\obj\x86\Debug\NestedLoops.exe
+E:\arsalan\C#\practice\diamonds\NestedLoops\obj\x86\Debug\NestedLoops.pdb
+E:\arsalan\C#\practice\diamonds\NestedLoops\bin\Debug\NestedLoops.exe
+E:\arsalan\C#\practice\diamonds\NestedLoops\bin\Debug\NestedLoops.pdb
+E:\arsalan\C#\practice\diamonds\NestedLoops\obj\x86\Debug\NestedLoops.csprojResolveAssemblyReference.cache
+E:\arsalan\1st semester C#\practice\diamonds\NestedLoops\obj\x86\Debug\NestedLoops.exe
+E:\arsalan\1st semester C#\practice\diamonds\NestedLoops\obj\x86\Debug\NestedLoops.pdb
+E:\arsalan\1st semester C#\running programs\diamonds\NestedLoops\obj\x86\Debug\NestedLoops.exe
+E:\arsalan\1st semester C#\running programs\diamonds\NestedLoops\obj\x86\Debug\NestedLoops.pdb
